@@ -1,6 +1,6 @@
 # Microsoft C# Certification Projects
 
-This repository contains various projects completed various projects completed as part of my Microsoft C# certification. Each project demonstrates different aspects of C# programming, from basic console applications to more complex projects.
+This repository contains various completed projects as part of my Microsoft C# certification. Each project demonstrates different aspects of C# programming, from basic console applications to more complex projects.
 
 ## Installation
 
