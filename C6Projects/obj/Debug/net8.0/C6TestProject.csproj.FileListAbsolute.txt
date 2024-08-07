@@ -1,0 +1,14 @@
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\bin\Debug\net8.0\C6TestProject.exe
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\bin\Debug\net8.0\C6TestProject.deps.json
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\bin\Debug\net8.0\C6TestProject.runtimeconfig.json
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\bin\Debug\net8.0\C6TestProject.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\bin\Debug\net8.0\C6TestProject.pdb
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\C6TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\C6TestProject.AssemblyInfoInputs.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\C6TestProject.AssemblyInfo.cs
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\C6TestProject.csproj.CoreCompileInputs.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\C6TestProject.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\refint\C6TestProject.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\C6TestProject.pdb
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\C6TestProject.genruntimeconfig.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\C#FreeCodeCampCertification\C6TestProject\obj\Debug\net8.0\ref\C6TestProject.dll

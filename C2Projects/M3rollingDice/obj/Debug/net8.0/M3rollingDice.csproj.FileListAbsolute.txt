@@ -1,0 +1,28 @@
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.AssemblyInfoInputs.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.AssemblyInfo.cs
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.csproj.CoreCompileInputs.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.exe
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.deps.json
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.runtimeconfig.json
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.pdb
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\refint\M3rollingDice.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.pdb
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.genruntimeconfig.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\ref\M3rollingDice.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.exe
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.deps.json
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.runtimeconfig.json
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\bin\Debug\net8.0\M3rollingDice.pdb
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.AssemblyInfoInputs.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.AssemblyInfo.cs
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.csproj.CoreCompileInputs.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\refint\M3rollingDice.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.pdb
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\M3rollingDice.genruntimeconfig.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\C#FreeCodeCampCertification\CSharpCert(forGitHub)\C2Projects\M3rollingDice\obj\Debug\net8.0\ref\M3rollingDice.dll

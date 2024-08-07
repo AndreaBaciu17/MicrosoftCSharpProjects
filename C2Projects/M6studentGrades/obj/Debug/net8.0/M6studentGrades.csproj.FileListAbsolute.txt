@@ -1,0 +1,14 @@
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\bin\Debug\net8.0\M6studentGrades.exe
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\bin\Debug\net8.0\M6studentGrades.deps.json
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\bin\Debug\net8.0\M6studentGrades.runtimeconfig.json
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\bin\Debug\net8.0\M6studentGrades.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\bin\Debug\net8.0\M6studentGrades.pdb
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\M6studentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\M6studentGrades.AssemblyInfoInputs.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\M6studentGrades.AssemblyInfo.cs
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\M6studentGrades.csproj.CoreCompileInputs.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\M6studentGrades.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\refint\M6studentGrades.dll
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\M6studentGrades.pdb
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\M6studentGrades.genruntimeconfig.cache
+C:\Users\baciu\OneDrive\Documents\CS Career\VS Code\CSharpCert(forGitHub)\C2Projects\M6studentGrades\obj\Debug\net8.0\ref\M6studentGrades.dll
