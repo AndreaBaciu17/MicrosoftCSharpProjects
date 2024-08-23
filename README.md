@@ -20,7 +20,7 @@ This repository is organized into several folders, each representing a different
 Each folder starts with the module number (e.g., M3 for Module 3) followed by the project name. To be easier, click the links below to get directly to the code.
 
 ### C2TestProject
-Description: Contains folders for mini projects organized by modules from Chapter 2.
+Description: Contains folders for mini projects organized by modules from Chapter 2, applying and utilizing basic C# concepts. 
 - [**M3Subscription**.cs](C2Projects/M3Subscription):  A project to manage user subscriptions, including adding, removing, and updating subscription details
 - [**M3rollingDice**.cs](C2Projects/M3rollingDice): A simple dice rolling application.
 - [**M4foreachinven**.cs](C2Projects/M4foreachinven): Inventory management using foreach loops.
@@ -30,7 +30,7 @@ Description: Contains folders for mini projects organized by modules from Chapte
 - [**M7studentGradespt2**.cs](C2Projects/M7studentGradespt2): Continuation of the student grades project.
 
 ### C3TestProject
-Description: Contains mini projects focusing on various C# concepts from Chapter 3.
+Description: Contains mini projects focusing on various C# concepts from Chapter 3, like adding system logic to code. 
 - [**M1Bool**.cs](C3Projects/M1Bool): A project demonstrating the use of boolean operations in various scenarios.
 - [**M2totalNums**.cs](C3Projects/M2totalNums): Total numbers calculation. A program to calculate the total of a series of numbers input by the user.
 - [**M3SKU.cs**](C3Projects/M3SKU): An exercise example that is a system to manage Stock Keeping Units (SKUs) in an inventory.
@@ -39,7 +39,7 @@ Description: Contains mini projects focusing on various C# concepts from Chapter
 - [**M6petApp**.cs](C3Projects/M6petApp):  A pet management application to keep track of pet details and activities.
 
 ### C4TestProject
-Description: Contains more advanced mini projects from Chapter 4.
+Description: Contains more advanced mini projects from Chapter 4, which was about working with numerical and variable data.
 - [**M2convertNums**.cs](C4Projects/M2convertNums): A tool to convert numbers between different formats (e.x., binary, decimal,).
 - [**M3parseOrderIDs**.cs](C4Projects/M3parseOrderIDs): A project to parse and validate order IDs from a text input.
 - [**M4autoEmail**.cs](C4Projects/M4autoEmail): An exercise that automates email sender, sending emails based on predefined templates.
@@ -47,7 +47,7 @@ Description: Contains more advanced mini projects from Chapter 4.
 - [**M6petApp(pt3)**.cs](C4Projects/M6petApp(pt3)): Continuation of the pet management application, adding more advanced features.
 
 ### C5TestProject
-Description: Further advanced projects with more complexity from Chapter 5.
+Description: Further advanced projects with more complexity from Chapter 5, which worked with creating methods and class objects.
 - [**M1luckyBall**.cs](C5Projects/M1luckyBall): A lucky ball game where users guess the outcome of a random draw.
 - [**M2displayEmailMethod**.cs](C5Projects/M2displayEmailMethod): An exercise on creating a C# method that displays emails in a formatted manner.
 - [**M3rollGame**.cs](C5Projects/M3rollGame): A rolling game where users roll virtual dice and compete for the highest score.
@@ -55,6 +55,6 @@ Description: Further advanced projects with more complexity from Chapter 5.
 - [**M5consoleGame**.cs](C5Projects/M5consoleGame): A console-based game with various interactive features.
 
 ### C6TestProject
-Description: Focuses on debugging exercises from Chapter 6.
+Description: Focuses on debugging exercises from Chapter 6, which focused on debugging C# applications errors.
 - **Debug 101**: Debugging folder exercises with Visual Studio Code to identify and fix common coding errors.
 - [**M6transactionStore.cs**](C6Projects/Debug101): Transaction store debugging exercise example.
